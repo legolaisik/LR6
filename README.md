@@ -3,25 +3,25 @@
 
 1.Создаем аккаунт на GitHub и делаем копию репозитория преподавателя в личное хранилище
 2.Устанавливаем Git и настраиваем клиент
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/1.jpg)
+![1]( https://github.com/legolaisik/LR6/tree/report/Screenshots/1.jpg)
 3.Клонируем репозиторий на компьютер
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/2.jpg)
+![2]( https://github.com/legolaisik/LR6/tree/report/Screenshots/2.jpg)
 4.Добавляем файл на GitHub и подтягиваем его на компьютер
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/3.jpg)
+![3]( https://github.com/legolaisik/LR6/tree/report/Screenshots/3.jpg)
 5.Получаем историю операций для каждой ветки
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/4.jpg)
+![4]( https://github.com/legolaisik/LR6/tree/report/Screenshots/4.jpg)
 6.С помощью GitHub Desktops объединяем ветки, исправляя конфликт, и удаляем ненужную ветку
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/5.jpg)
+![5]( https://github.com/legolaisik/LR6/tree/report/Screenshots/5.jpg)
 7.Делаем изменение в файле и выполняем коммит
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/6.jpg)
+![6]( https://github.com/legolaisik/LR6/tree/report/Screenshots/6.jpg)
 8.Делаем хард откат
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/7.jpg)
+![7]( https://github.com/legolaisik/LR6/tree/report/Screenshots/7.jpg)
 9.Создаем ветку для отчета
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/8.jpg)
+![8]( https://github.com/legolaisik/LR6/tree/report/Screenshots/8.jpg)
 10.Загружаем ветку в удаленный репозиторий
-![]( https://github.com/legolaisik/LR6/tree/report/Screenshots/9.jpg)
+![9]( https://github.com/legolaisik/LR6/tree/report/Screenshots/9.jpg)
 11. Лог команд
-git clone https://github.com/pluszerominus/LR6
+git clone https://github.com/legolaisik/LR6
 git pull origin master
 git reflog –-all
 git add .
