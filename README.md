@@ -4,23 +4,23 @@
 1.Создаем аккаунт на GitHub и делаем копию репозитория преподавателя в личное хранилище
 2.Устанавливаем Git и настраиваем клиент
 ![1]( https://github.com/legolaisik/LR6/tree/report/Screenshots/1.jpg)
-3.Клонируем репозиторий на компьютер
+4.Клонируем репозиторий на компьютер
 ![2]( https://github.com/legolaisik/LR6/tree/report/Screenshots/2.jpg)
-4.Добавляем файл на GitHub и подтягиваем его на компьютер
+6.Добавляем файл на GitHub и подтягиваем его на компьютер
 ![3]( https://github.com/legolaisik/LR6/tree/report/Screenshots/3.jpg)
-5.Получаем историю операций для каждой ветки
+8.Получаем историю операций для каждой ветки
 ![4]( https://github.com/legolaisik/LR6/tree/report/Screenshots/4.jpg)
-6.С помощью GitHub Desktops объединяем ветки, исправляя конфликт, и удаляем ненужную ветку
+10.С помощью GitHub Desktops объединяем ветки, исправляя конфликт, и удаляем ненужную ветку
 ![5]( https://github.com/legolaisik/LR6/tree/report/Screenshots/5.jpg)
-7.Делаем изменение в файле и выполняем коммит
+12.Делаем изменение в файле и выполняем коммит
 ![6]( https://github.com/legolaisik/LR6/tree/report/Screenshots/6.jpg)
-8.Делаем хард откат
+14.Делаем хард откат
 ![7]( https://github.com/legolaisik/LR6/tree/report/Screenshots/7.jpg)
-9.Создаем ветку для отчета
+16.Создаем ветку для отчета
 ![8]( https://github.com/legolaisik/LR6/tree/report/Screenshots/8.jpg)
-10.Загружаем ветку в удаленный репозиторий
+18.Загружаем ветку в удаленный репозиторий
 ![9]( https://github.com/legolaisik/LR6/tree/report/Screenshots/9.jpg)
-11. Лог команд
+20. Лог команд
 git clone https://github.com/legolaisik/LR6
 git pull origin master
 git reflog –-all
@@ -31,7 +31,7 @@ git reset –-hard HEAD
 git checkout –b report
 git branch
 git push –set-upstream origin report
-12. История коммитов
+31. История коммитов
 commit e660282e7e248b63be893d9005816093aa46ce24 (HEAD -> report, origin/report, origin/master, origin/HEAD, master)
 Author: Zhdanov Daniil <68649279+legolaisik@users.noreply.github.com>
 Date:   Mon Nov 15 14:03:02 2021 +0300
